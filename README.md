@@ -38,15 +38,15 @@ All the cheat sheets are made to be read from the up-left to the down-righ follo
 
 This repository is not static, and the content will be updated and upgraded with more cheat sheets. Although if you see any mistake, please fell free to add a new issue.
 
-## 4. Links
+## 5. Links
 
 More resources like these [here](https://carlosgrande.me/)
 
+## Acknowledgements
 
+**Thanks for viewing my work!**
 
-<p style="font-size:30px; text-align:center; font-weight:bold">Thanks for viewing my work!</p>
-
-<p style="font-size:20px; text-align:center"><a href="https://carlosgrande.me/">carlosgrande.me</a></p>
+<p style="font-size:20px;"><a href="https://carlosgrande.me/">carlosgrande.me</a></p>
 
 
 
